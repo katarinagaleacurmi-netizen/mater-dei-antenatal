@@ -1,0 +1,30 @@
+{
+  "name": "Mater Dei Antenatal Classes",
+  "short_name": "Antenatal",
+  "description": "Antenatal classes at Mater Dei Hospital, Malta — guiding you through pregnancy, birth, and the early days with your baby.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFF6FF",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
